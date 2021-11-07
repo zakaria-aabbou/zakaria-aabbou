@@ -48,7 +48,7 @@
 <table>
   <thead>
     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAABBOU&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=ZakariaAABBOU&show_icons=true" alt="Mohammed EL-KHOU's Top Langs" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=ZakariaAABBOU&show_icons=true" alt="Zakaria AABBOU's Top Langs" /></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAABBOU&layout=compact" /></th>
   </thead>
 </table>
