@@ -4,14 +4,14 @@
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Machine learning, deep learning, Recommendation Systems, Data Science,
 - ⚡ Fun fact: Tea lover
 
 ### Connect with me:
 
-[<img align="left" alt="zakaria.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://zakaria-aabbou.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="zakaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="zakaria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -39,13 +39,13 @@
 <br />
 <br />
 
-![ZakariaAABBOU](https://komarev.com/ghpvc/?username=ZakariaAABBOU)
+![ZakariaAABBOU](https://komarev.com/ghpvc/?username=zakaria-aabbou)
 
 <table>
   <thead>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaAABBOU&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=ZakariaAABBOU&show_icons=true" alt="Zakaria AABBOU's Top Langs" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaAABBOU&layout=compact" /></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-aabbou&theme=default"></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=zakaria-aabbou&show_icons=true" alt="Zakaria AABBOU's Top Langs" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-aabbou&layout=compact" /></th>
   </thead>
 </table>
 
@@ -54,12 +54,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ZakariaAABBOU&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zakaria-aabbou&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://site.com
-[course]: http://vsCodeHero.com
+[website]: https://zakaria-aabbou.github.io/
 [twitter]: https://twitter.com/ZakariaAabbou
 [linkedin]: https://www.linkedin.com/in/zakaria-aabbou/
 [webdevplaylist]: https://twitter.com/ZakariaAabbou
