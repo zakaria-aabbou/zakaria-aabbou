@@ -39,9 +39,6 @@
 <br />
 <br />
 
-![zakaria-aabbou](https://komarev.com/ghpvc/?username=zakaria-aabbou)
-
-
 
 ---
 
@@ -55,7 +52,7 @@
     </thead>
   </table>
   
-
+![zakaria-aabbou](https://komarev.com/ghpvc/?username=zakaria-aabbou)
 
 
 [website]: https://zakaria-aabbou.github.io/
