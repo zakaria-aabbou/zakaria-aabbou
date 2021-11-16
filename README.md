@@ -45,7 +45,7 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
   <table>
     <thead>
@@ -56,7 +56,7 @@
   </table>
   
 
-</details>
+
 
 [website]: https://zakaria-aabbou.github.io/
 [twitter]: https://twitter.com/ZakariaAabbou
