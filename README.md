@@ -39,22 +39,22 @@
 <br />
 <br />
 
-![ZakariaAABBOU](https://komarev.com/ghpvc/?username=zakaria-aabbou)
+![zakaria-aabbou](https://komarev.com/ghpvc/?username=zakaria-aabbou)
 
-<table>
-  <thead>
-    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-aabbou&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=zakaria-aabbou&show_icons=true" alt="Zakaria AABBOU's Top Langs" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-aabbou&layout=compact" /></th>
-  </thead>
-</table>
+
 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zakaria-aabbou&show_icons=true&hide_border=true" />
+  <table>
+    <thead>
+      <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-aabbou&theme=default"></th>
+      <th><img src="https://github-readme-stats.vercel.app/api?username=zakaria-aabbou&show_icons=true" alt="Zakaria AABBOU's Top Langs" /></th>
+      <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-aabbou&layout=compact" /></th>
+    </thead>
+  </table>
+  
 
 </details>
 
