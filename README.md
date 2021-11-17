@@ -67,12 +67,7 @@
   <tr>
     <td>Cloud</td>
      <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </td>
-     <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="aws ecs" width="40" height="40"/></td>
-     
-     
-    
+ 
     
     
   </tr>
@@ -88,8 +83,6 @@
   </tr>
   <tr>
     <td>Frameworks</td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/dask/dask-icon.svg" alt="dask" width="40" height="40"/></td> 
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></td>
   </tr>
