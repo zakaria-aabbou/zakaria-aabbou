@@ -51,8 +51,7 @@
      <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="slack" width="40" height="40"/> </td>
-     <td><img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="40" height="40"/></td>
-     <td><img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="aws eks" width="40" height="40"/></td>
+
   </tr>
   <tr>
     <td>UI Design</td>
