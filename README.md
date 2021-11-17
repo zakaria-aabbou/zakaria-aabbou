@@ -99,12 +99,6 @@
      <td><img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="Nginx" width="40" height="40"/></td> 
   </tr>
-  <tr>
-    <td>OS</td>
-    <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="40" height="40"/></td>    
-    <td><img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" alt="Open Suse" width="40" height="40"/></td>
-     
-  </tr>
 
 </table>
 
