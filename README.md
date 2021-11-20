@@ -1,11 +1,11 @@
 # Hi there, I'm Zakaria 👋 
 
-## I'm a Data Science Student 
+## I'm a Junior Data Science 
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
+<!-- - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects -->
 - 💬 Ask me about Machine learning, deep learning, Recommendation Systems, Data Science,
 - ⚡ Fun fact: Tea lover
 
