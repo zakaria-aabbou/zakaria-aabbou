@@ -155,8 +155,7 @@ Here is some of the stuff I enjoy doing:
             height="40" /></a></td>
   </tr>
   
-
-    <tr>
+  <tr>
     <td>Software</td> 
     <td>    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
