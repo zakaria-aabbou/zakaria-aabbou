@@ -36,7 +36,7 @@ Here is some of the stuff I enjoy doing:
 <table>
 
   <thead>
-    <td>Languages</td>
+    <td>Programming Languages</td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </td>
     <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></td>
@@ -44,9 +44,72 @@ Here is some of the stuff I enjoy doing:
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="python" width="40" height="40"/> </td>
+<!--     <td><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="python" width="40" height="40"/> </td> -->
+    <td>    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            width="40" height="40" /> </a>
+</td>
 
   </thead>
+  
+<!--   
+  <tr>
+    <td>XXXXXXXXX</td> 
+    <td></td>
+    <td></td>
+  </tr>
+ -->
+  
+  <tr>
+    <td>Frontend Development</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Backend Development</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Mobile App Development</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>AI/ML</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td>Database</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td>Framework</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+
+    <tr>
+    <td>Software</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
+   <tr>
+    <td>Other</td> 
+    <td></td>
+    <td></td>
+  </tr>
+  
   <tr>
     <td>Database</td> 
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
@@ -56,6 +119,7 @@ Here is some of the stuff I enjoy doing:
      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></td>
   </tr>
+  
    <tr>
     <td>DevOps</td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></td>
