@@ -11,9 +11,9 @@ Here is some of the stuff I enjoy doing:
 * Work with data and APIs
 * Machine learning
 * Deep learning
-* Bayesian statistic 
 * Data visualization
 * Time series analysis
+* developing softwares and creating websites
 * Put stuff in production
 
 
