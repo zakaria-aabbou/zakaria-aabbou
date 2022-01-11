@@ -82,13 +82,6 @@ Here is some of the stuff I enjoy doing:
             alt="html5" width="40" height="40" /> </a></td>
   </tr>
   
-  <tr>
-    <td>Backend Development</td> 
-    <td>    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
-            height="40" /> </a></td>
-    
-  </tr>
   
   <tr>
     <td>Mobile App Development</td> 
@@ -156,6 +149,10 @@ Here is some of the stuff I enjoy doing:
     <td>    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
             height="40" /></a></td>
+  
+      <td>    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
+            height="40" /> </a></td>
   </tr>
   
   <tr>
