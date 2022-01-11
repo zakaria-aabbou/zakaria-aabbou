@@ -115,8 +115,29 @@ Here is some of the stuff I enjoy doing:
             height="40" /> </a> </td>
     
   </tr>
-  
-  
+
+
+<tr>
+    <td>Framework</td> 
+    <td>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+            alt="django" width="40" height="40" /></a></td>
+    <td>    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            alt="laravel" width="40" height="40" /> </a></td>
+    <td>    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
+            height="40" /></a>
+  </td>
+  <td>
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
+            height="40" />
+    </a>
+  </td>
+</tr>
+
+
 <!--   
   <tr>
     <td>XXXXXXXXX</td> 
@@ -157,25 +178,7 @@ Here is some of the stuff I enjoy doing:
   
 
   
-  <tr>
-    <td>Framework</td> 
-    <td>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-            alt="django" width="40" height="40" /></a></td>
-    <td>    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a></td>
-    <td>    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" /></a>
-  </td>
-  <td>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
-            height="40" />
-    </a>
-  </td>
-</tr>
+  
   
    <tr>
     <td>Devops</td>
