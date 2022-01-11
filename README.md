@@ -1,20 +1,33 @@
-# Hi there, I'm Zakaria 👋 
+# Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Junior Data Science 
+I'm a data science student. I mainly write code with Python and R, occasionally I do Java, Django, HTML, CSS, and currently I am learning everything 🤣.
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-<!-- - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects -->
+- 🥅 2022 Goals: Work as a data scientist for an enterprise 
 - 💬 Ask me about Machine learning, deep learning, Recommendation Systems, Data Science,
-- ⚡ Fun fact: Tea lover
+- ⚡ Fun fact: Coffee lover
 
-### Connect with me:
+Here is some of the stuff I enjoy doing:
+* Work with data and APIs
+* Machine learning
+* Deep learning
+* Bayesian statistic 
+* Data visualization
+* Time series analysis
+* Put stuff in production
+
+
+### Check my website:
 
 [<img align="left" alt="https://zakaria-aabbou.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="zakaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="zakaria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="zakaria | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+<!-- [<img align="left" alt="zakaria | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 
+🔗 &nbsp;**I am also on:**
+<p align="left">
+<a href="https://twitter.com/ZakariaAabbou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zakariaab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zakaria-aabbou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariaab" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zakaria_abbou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakaria.ab" height="30" width="40" /></a>
 
 <br />
 
