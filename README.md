@@ -33,15 +33,14 @@ Here is some of the stuff I enjoy doing:
 <br />
 
 ### Languages and Tools:
+  
 <table>
-
-  <thead>
     <td>Programming Languages</td>
-    <td>    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /> </a></td>
     <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
-    <td><<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -59,7 +58,6 @@ Here is some of the stuff I enjoy doing:
             width="40" height="40" /> </a>
 </td>
 
-  </thead>
   
 <!--   
   <tr>
