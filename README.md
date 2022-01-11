@@ -125,13 +125,13 @@ Here is some of the stuff I enjoy doing:
   </table>
   
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-aabbou&show_icons=true&locale=en&layout=compact" alt="zakaria-aabbou" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-aabbou&show_icons=true&locale=en&layout=compact" alt="zakaria-aabbou" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-aabbou&show_icons=true&locale=en" alt="zakaria-aabbou" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-aabbou&" alt="zakaria-aabbou" /></p>
 
----
+--- -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-aabbou&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-aabbou" /> </p>
 
@@ -140,7 +140,7 @@ Here is some of the stuff I enjoy doing:
 <p align="left"> <a href="https://twitter.com/zakariaaabbou" target="blank"><img src="https://img.shields.io/twitter/follow/zakariaaabbou?logo=twitter&style=for-the-badge" alt="zakariaaabbou" /></a> </p>
 
 ---
-![zakaria-aabbou](https://komarev.com/ghpvc/?username=zakaria-aabbou)
+<!-- ![zakaria-aabbou](https://komarev.com/ghpvc/?username=zakaria-aabbou) -->
 
 
 [website]: https://zakaria-aabbou.github.io/
