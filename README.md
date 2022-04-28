@@ -1,10 +1,10 @@
 # Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a data science student. I mainly write code with Python and R, occasionally I do Java, Django, HTML, CSS, and currently I am learning everything 🤣.
+I'm a data science student. I mainly write code with Python and R, occasionally I do Java, Django, HTML, CSS, and currently, I am working on NLP tasks, especially Machine Translations.
 
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Work as a data scientist for an enterprise 
-- 💬 Ask me about Machine learning, deep learning, Recommendation Systems, Data Science,
+- 💬 Ask me about NLP, Computer Vision, ML/DL, Data Science,
 - ⚡ Fun fact: Coffee lover
 
 Here is some of the stuff I enjoy doing:
@@ -12,8 +12,8 @@ Here is some of the stuff I enjoy doing:
 * Machine learning
 * Deep learning
 * Data visualization
-* Time series analysis
-* developing softwares and creating websites
+* Natural Language Processing
+* Developing softwares and creating websites
 * Put stuff in production
 
 
