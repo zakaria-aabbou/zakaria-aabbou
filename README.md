@@ -1,4 +1,4 @@
-# Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
 
 I'm a data science student. I mainly write code with Python and R, occasionally I do Java, Django, HTML, CSS, and currently, I am working on NLP tasks, especially Machine Translations.
 
