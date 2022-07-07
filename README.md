@@ -1,4 +1,4 @@
-# Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="40">
+# Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40" width="30">
 
 I'm a data science student. I mainly write code with Python and R, occasionally I do Java, Django, HTML, CSS, and currently, I am working on NLP tasks, especially Machine Translations.
 
@@ -120,7 +120,7 @@ Here is some of the stuff I enjoy doing:
 <tr>
     <td>Framework</td> 
     <td>    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"
             alt="django" width="40" height="40" /></a></td>
     <td>    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
