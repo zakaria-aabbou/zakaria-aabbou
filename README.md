@@ -1,6 +1,6 @@
 # Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40" width="40">
 
-I'm a data science student. I mainly write code with Python and R, occasionally I do Java, Django, HTML, CSS, and currently, I am working on NLP tasks, especially Machine Translations.
+I'm a data scientist. I mainly write code with Python and R, occasionally I do Java, C++, Django, HTML, CSS, and currently, I am working on NLP projects.
 
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Work as a data scientist for an enterprise 
