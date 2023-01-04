@@ -3,7 +3,7 @@
 I'm a data scientist. I mainly write code with Python and R, occasionally I do Java, C++, Django, HTML, CSS, and currently, I am working on NLP projects.
 
 - 👯 I’m looking to collaborate with others
-- 🥅 2022 Goals: Work as a data scientist for an enterprise 
+- 🥅 2023 Goals: Work on more projects 
 - 💬 Ask me about NLP, Computer Vision, ML/DL, Data Science,
 - ⚡ Fun fact: Coffee lover
 
