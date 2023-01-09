@@ -16,8 +16,8 @@ Here is some of the stuff I enjoy doing:
 * Developing softwares and creating websites
 * Put stuff in production
 
-Data Science Roadmap in 2023:
-## AIOPS: End To End ML Projects
+
+## Data Science Roadmap in 2023: AIOPS
 1. Github Action CI/CD pipelines
 2. Circle CI
 3. Kubeflow
