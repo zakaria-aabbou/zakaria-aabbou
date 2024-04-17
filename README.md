@@ -1,32 +1,20 @@
 # Hi there, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40" width="40">
 
-I'm a data scientist. I mainly write code with Python and R, occasionally I do Java, C++, Django, HTML, CSS, and currently, I am working on NLP projects.
+I'm an AI engineer. I mainly work on projects with clients to develop AI solutions.
 
 - 👯 I’m looking to collaborate with others
-- 🥅 2023 Goals: Work on more projects 
-- 💬 Ask me about NLP, Computer Vision, ML/DL, Data Science,
+- 🥅 2024 Goals: Work on more projects 
+- 💬 Ask me about AI, GenAI, NLP, ML/DL, Data Science,
 - ⚡ Fun fact: Coffee lover
 
 Here is some of the stuff I enjoy doing:
+* Build GenAI apps
 * Work with data and APIs
 * Machine learning
 * Deep learning
 * Data visualization
 * Natural Language Processing
-* Developing softwares and creating websites
 * Put stuff in production
-
-
-#### Data Science Roadmap in 2023: AIOPS
-1. Github Action CI/CD pipelines
-2. Circle CI
-3. Kubeflow
-4. MLflow
-5. Deployment Technqiues In AWS,AZURE, GCP,Dockers And Kubernetes
-6. Evidently AI
-7. Grafana(Monitoring)
-8. AirFlow
-
 
 
 ### Contact me:
