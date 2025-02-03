@@ -3,7 +3,7 @@
 I'm an AI engineer. I mainly work on projects with clients to develop AI solutions.
 
 - 👯 I’m looking to collaborate with others
-- 🥅 2024 Goals: Work on more projects 
+- 🥅 2025 Goals: Work on more projects 
 - 💬 Ask me about AI, GenAI, NLP, ML/DL, Data Science,
 - ⚡ Fun fact: Coffee lover
 
